@@ -138,7 +138,7 @@ print("Gold ingots:",goldIngot)
 print("Enderium ingots:",enderiumIngot)
 print("Tin Ingots:",tinIngot)
 print("Magnesium ingots:",magnesiumIngot)
-print("Disomnds:",diamond)
+print("Diamonds:",diamond)
 print("Emeralds:",emerald)
 print("Lapis blocks",lapis)
 try:
